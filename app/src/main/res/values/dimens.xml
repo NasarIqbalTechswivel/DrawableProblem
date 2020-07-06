@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="placeholder_image">50dp</dimen>
+    <dimen name="placeholder_text_height">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="digit_width">70dp</dimen>
+    <dimen name="design_navigation_icon_size" tools:override="true">20dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+
+    <!-- start and end default margin -->
+    <dimen name="margin_start">15dp</dimen>
+    <dimen name="margin_end">15dp</dimen>
+    <dimen name="padding_start">15dp</dimen>
+    <dimen name="padding_end">15dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="recycler_vertical_spacing">10dp</dimen>
+    <dimen name="recycler_horizental_spacing_20">20dp</dimen>
+    <dimen name="recycler_horizental_spacing_2">2dp</dimen>
+
+    <dimen name="buyers_View_vertical_spacing">50dp</dimen>
+
+
+    <dimen name="defaultXOffSet">-8dp</dimen>
+    <dimen name="defaultYOffSet">-8dp</dimen>
+    <dimen name="_22dp">22dp</dimen>
+    <dimen name="_20sp">20sp</dimen>
+    <dimen name="_30dp">30dp</dimen>
+    <dimen name="_18dp">18dp</dimen>
+    <dimen name="_20dp">22dp</dimen>
+    <dimen name="_19dp">19dp</dimen>
+    <dimen name="_18sp">18sp</dimen>
+    <dimen name="_0">0dp</dimen>
+    <dimen name="_12sp">12sp</dimen>
+    <dimen name="_14sp">14sp</dimen>
+    <dimen name="_50dp">50dp</dimen>
+    <dimen name="minus50dp">-50dp</dimen>
+    <dimen name="_12dp">12dp</dimen>
+    <dimen name="_11dp">11dp</dimen>
+    <string name="_15sp">15sp</string>
+
+    <dimen name="ratingHeight">23dp</dimen>
+    <dimen name="_35sp">35sp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+
+</resources>

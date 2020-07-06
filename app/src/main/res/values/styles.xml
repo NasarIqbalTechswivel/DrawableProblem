@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextStyleSimpleRegulerText">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:layout_marginStart">@dimen/margin_start</item>
+        <item name="android:layout_marginEnd">@dimen/margin_end</item>
+        <item name="android:layout_marginLeft">@dimen/margin_start</item>
+        <item name="android:layout_marginRight">@dimen/margin_end</item>
+    </style>
+
+    <style name="AppThemeRatingBarMedium">
+        <item name="android:progressDrawable">@drawable/custom_rating_bar</item>
+    </style>
+
+    <style name="AppThemeRatingBar" parent="Widget.AppCompat.RatingBar.Small">
+        <item name="android:progressDrawable">@drawable/small_rating_bar</item>
+    </style>
+
+    <style name="EditTextGreyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorTitle</item>
+
+        <item name="colorControlNormal">@color/colorTitle</item>
+        <item name="colorControlHighlight">@color/colorTitle</item>
+        <item name="colorControlActivated">@color/color_grey_hint</item>
+    </style>
+
+    <style name="TextStyleSimpleMediumText">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:layout_marginStart">@dimen/margin_start</item>
+        <item name="android:layout_marginEnd">@dimen/margin_end</item>
+        <item name="android:layout_marginLeft">@dimen/margin_start</item>
+        <item name="android:layout_marginRight">@dimen/margin_end</item>
+    </style>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">@android:color/white</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBlue">#1F72A3</color>
+    <color name="colorTitle">#1C1B1B</color>
+    <color name="colorText">#AEAEAE</color>
+
+    <color name="colorCursor">#13AAD3</color>
+
+    <color name="colorDisable">#AFAFAF</color>
+
+    <color name="colorFacebook">#5175C2</color>
+    <color name="colorFacebookIc">#3B5998</color>
+
+    <color name="colorInstagram">#AB30BF</color>
+
+    <color name="colorGoogle">#E55F4E</color>
+
+    <color name="colorOR">#6D6B6B</color>
+
+    <color name="colorGreen">#6FDA44</color>
+    <color name="colorCard">#0074AA</color>
+
+    <color name="colorHome">#FDFDFD</color>
+    <color name="colorPopupMenu">#E9E9E9</color>
+    <color name="colorAddressSelection">#676666</color>
+    <color name="colorHumburger">#1d1a2f</color>
+    <color name="colorDivider">#E6E6E6</color>
+    <color name="color_grey_hint">#B2B2B2</color>
+    <color name="color_toolbar_blue">#73D7F2</color>
+
+    <color name="color_toolbar">#FBFBFB</color>
+
+    <color name="color_grey_text">#646464</color>
+
+    <color name="color_profile_back">#EEEEEE</color>
+
+    <color name="color_profile_text">#393838</color>
+
+    <color name="color_profile_text_active">#1F72A3</color>
+
+    <color name="color_total_background">#FAFAFA</color>
+
+    <color name="colorSeekBar">#13aad3</color>
+    <color name="colorSeekBarBack">#fff</color>
+    <color name="colorPopUpMenuLine">#6766667D</color>
+
+    <color name="colorTextDescription">#636363</color>
+
+    <color name="colorRed">#FF393F</color>
+
+    <color name="ratingBarColor">#FAC917</color>
+
+    <color name="colorOderTitle">#333333DE</color>
+
+    <color name="lightGrey">#DDDDDD</color>
+</resources>
